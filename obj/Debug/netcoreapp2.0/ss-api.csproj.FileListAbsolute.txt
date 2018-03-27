@@ -1,0 +1,10 @@
+C:\Z-space\try out\ss-api\bin\Debug\netcoreapp2.0\ss-api.deps.json
+C:\Z-space\try out\ss-api\bin\Debug\netcoreapp2.0\ss-api.runtimeconfig.json
+C:\Z-space\try out\ss-api\bin\Debug\netcoreapp2.0\ss-api.runtimeconfig.dev.json
+C:\Z-space\try out\ss-api\bin\Debug\netcoreapp2.0\ss-api.dll
+C:\Z-space\try out\ss-api\bin\Debug\netcoreapp2.0\ss-api.pdb
+C:\Z-space\try out\ss-api\obj\Debug\netcoreapp2.0\ss-api.csproj.CoreCompileInputs.cache
+C:\Z-space\try out\ss-api\obj\Debug\netcoreapp2.0\ss-api.AssemblyInfoInputs.cache
+C:\Z-space\try out\ss-api\obj\Debug\netcoreapp2.0\ss-api.AssemblyInfo.cs
+C:\Z-space\try out\ss-api\obj\Debug\netcoreapp2.0\ss-api.dll
+C:\Z-space\try out\ss-api\obj\Debug\netcoreapp2.0\ss-api.pdb
